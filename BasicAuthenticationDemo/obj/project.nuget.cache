@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nwy9eU99qVk=",
+  "success": true,
+  "projectFilePath": "C:\\Repo\\NETCORE\\API\\BasicAuthenticationMinimalApiDemo\\BasicAuthenticationDemo\\BasicAuthenticationDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Volkan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0-rc.2.25502.107\\microsoft.aspnetcore.openapi.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\Volkan\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

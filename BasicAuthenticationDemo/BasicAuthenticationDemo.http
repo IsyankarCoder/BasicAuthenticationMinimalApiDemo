@@ -1,0 +1,21 @@
+@BasicAuthenticationDemo_HostAddress = https://localhost:7001
+
+GET {{BasicAuthenticationDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+GET {{BasicAuthenticationDemo_HostAddress}} 
+Accept: application/json
+
+###
+
+GET {{BasicAuthenticationDemo_HostAddress}}/secure-admin/
+Accept: application/json
+Authorization: Basic YWRtaW46cGFzMTIz
+
+###
+GET {{BasicAuthenticationDemo_HostAddress}}/secure-devleoper/
+Accept: application/json
+Authorization: Basic YWRtaW46cGFzMTIz
+
+###
